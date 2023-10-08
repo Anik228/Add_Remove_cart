@@ -1,0 +1,47 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.container {
+    text-align: center;
+    margin: 50px auto;
+   
+}
+
+ul,ol{
+    list-style: none;
+}
+
+.list1 a{
+    color: white;
+}
+
+.list2 a{
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px;
+    margin-left: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+li{
+margin-bottom: 20px;
+}
+
+.list_section1{
+    margin-bottom: 50px;
+}
+
